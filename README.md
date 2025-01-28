@@ -1,5 +1,5 @@
 # Ponnu Izumi Bot
-## _Multi device whatsapp bot created with [Baileys](https://github.com/whiskeysockets/Baileys)_
+## _Multi device whatsapp bot created with [Baileys](https://github.com/najahvk)_
   
 <div align="center">
    
