@@ -3,6 +3,6 @@
   
 <div align="center">
    
-<a href="https://izumi.maskser.me/pair"><img align="center" src="https://files.catbox.moe/tv3goq.jpg" alt="Scan QR" height="112" width="300" /></a><br>
+<a href="https://izumi.maskser.me/pair"><img align="center" src="https://files.catbox.moe/tv3goq.jpg" alt="Sᴇꜱꜱɪᴏɴ Iᴅ" height="112" width="300" /></a><br>
 
 </div>
